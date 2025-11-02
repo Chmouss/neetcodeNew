@@ -30,7 +30,7 @@ public class EncodeDecodeStrings {
         char[] charArray = str.toCharArray();
 
         for (char character: charArray){
-            
+            //not done but check V2
         }
 
         return listOfStrings;
